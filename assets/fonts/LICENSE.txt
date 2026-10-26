@@ -1,0 +1,7 @@
+Fonts self-hosted by RecruitCairn (no third-party font requests).
+
+Schibsted Grotesk (variable, latin subset) — Copyright The Schibsted Grotesk Project Authors.
+Source Serif 4 (variable, latin subset) — Copyright Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'.
+
+Both are licensed under the SIL Open Font License, Version 1.1: https://openfontlicense.org
+Files obtained from Fontsource (@fontsource-variable/schibsted-grotesk 5.3.0, @fontsource-variable/source-serif-4 5.3.1), 2026-10-23.

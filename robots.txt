@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://juanmacriniti.github.io/recruitcairn-web/sitemap.xml
